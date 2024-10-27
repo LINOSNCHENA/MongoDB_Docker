@@ -1,0 +1,23 @@
+{
+  "name": "docker-starter",
+  "version": "1.2.0",
+  "description": "Experimental",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js",
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pending"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "lmn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
