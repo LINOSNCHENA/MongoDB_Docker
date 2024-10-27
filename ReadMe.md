@@ -1,4 +1,4 @@
-# Commands Instructions
+# COMMAND INSTRUCTIONS
 
 ## 1. Firewall Access
 ```
@@ -25,6 +25,16 @@ docker login -u linosnchena
 docker ps
 docker stop e50ad27074a7
 docker images -a
+
+docker push linosnchena/node-app-ts
 ```
+
+
+## Access points
+
+```
+http://localhost:8080/
+```
+
 
 # End
